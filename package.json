@@ -24,7 +24,7 @@
     "test:watch": "standard --fix && jest --watch --coverage --no-cache"
   },
   "peerDependencies": {
-    "react": "^15.5.4"
+    "react": "^16.0.0"
   },
   "devDependencies": {
     "babel-cli": "^6.24.1",
